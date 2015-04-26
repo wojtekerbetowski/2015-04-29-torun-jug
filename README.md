@@ -2,5 +2,5 @@
 ## Topic: Designing API for mobile apps
 
 Source in mardown, using Deckset
-Check PDF file for end result
+Check [PDF file](https://github.com/wojtekerbetowski/mobilewarsaw-design-api-presentation/raw/master/presentation_16x9.pdf) for end result
 
