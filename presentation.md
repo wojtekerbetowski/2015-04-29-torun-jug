@@ -1,13 +1,11 @@
 # Designing mobile API
 
 ## Wojtek Erbetowski
-### MobileWarsaw #21, 19.01.2015
+### Toruń JUG, 29.04.2015
 ### t: @erbetowski
 
 ---
-# About me?
-
-## You all know me already, right?
+# About me
 
 ---
 ## Why not simply 'design an API'?
@@ -120,6 +118,9 @@ Latency
 
 ---
 `CONNECTION: KEEP-ALIVE`
+
+---
+## HTTP/2
 
 ---
 # Docs
@@ -251,7 +252,7 @@ Latency
 ```
 
 ---
-`POST /follow/456`
+`POST /users/456/follow`
 
 ---
 # HTTP Cache
@@ -261,6 +262,9 @@ Latency
 
 ## iOS (AFNetworking + NSURLCache)
 ## Android (Retrofit + OkHttp + HttpResponseCache)
+
+---
+# Paging
 
 ---
 `GET /users?page=1`
